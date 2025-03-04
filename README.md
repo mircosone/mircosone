@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm mircosone 👋
 
-<!--
-**mircosone/mircosone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer who loves working on exciting projects.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on [FileOrganizer](https://github.com/mircosone/FileOrganizer)
+- 🌱 I’m learning advanced Python techniques
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Python, data organization, and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [FileOrganizer](https://github.com/mircosone/FileOrganizer): Organizes files by type and implements a naming convention.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mirco-elong-22aa3a304/)
+
+Thanks for visiting my profile!
