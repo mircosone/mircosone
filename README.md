@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a developer who loves working on exciting projects.
 
 ## About Me
-- 🔭 I’m currently working on [FileOrganizer](https://github.com/mircosone/FileOrganizer)
+- 🔭 I’m currently working on PostgreSQL / SQLite databases
 - 🌱 I’m learning advanced Python techniques
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Python, data organization, and automation
