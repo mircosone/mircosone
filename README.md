@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on PostgreSQL / SQLite databases<br>- 🌱 I’m learning advanced Python techniques<br>- 👯 I’m looking to collaborate on open-source projects<br>- 💬 Ask me about Python, data organization, and automation
+- 🔭 I’m currently working on PostgreSQL / SQLite databases<br>- 🌱 I’m learning advanced Python techniques<br>- 👯 I’m looking to collaborate on open-source projects<br>- 💬 Ask me about Python, data organization, and automation<br><br> 🅿️ Project Pins<br> [FitnessApplication](https://github.com/mircosone/FitnessApplication)<br> [BankingApplication](https://github.com/mircosone/BankingApp)<br> [FileOrganizer](https://github.com/mircosone/FileOrganizer)<br> [FileMover](https://github.com/mircosone/FileMover)
 
 
 ## 🌐 Socials:
